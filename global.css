@@ -22,8 +22,8 @@
     --border-color: #e2e8f0;
     
     /* Backgrounds */
-    --background-light: url("../images/fundo-tela.svg");
-    --background-dark: url("../images/fundo-tela-dark.svg");
+    --background-light: url("./images/fundo-tela.svg");
+    --background-dark: url("./images/fundo-tela-dark.svg");
     
     /* Transições */
     --transition: 0.3s ease;
